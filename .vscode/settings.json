@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "/Users/maxroitblat/.pyenv/shims/python",
+    "python.linting.pylintArgs": [
+        "--load-plugins",
+        "pylint-flask",
+        "pylint-flask-sqlalchemy"
+    ]
+}
