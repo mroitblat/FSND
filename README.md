@@ -1,1 +1,1 @@
-This is the public repository for Udacity's Full-Stack Nanodegree program.
+Repository for projects associated with Udacity's Full-Stack Nanodegree Program.
